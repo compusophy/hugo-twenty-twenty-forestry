@@ -20,24 +20,12 @@ name = "vault"
 url = "https://opensea.io/0xaae6e2a2d10cfe076937a0858fd202684fa8460a"
 weight = 1
 [[menu.main]]
-URL = "sample-page"
-name = "Sample Page"
-weight = 5
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
-[[menu.main]]
-URL = "about"
-name = "About"
+name = "vote"
+url = "https://snapshot.org/#/compusophy.eth"
 weight = 2
 [[menu.main]]
-URL = "/"
-name = "Home"
+name = "vault"
+url = "https://opensea.io/0xaae6e2a2d10cfe076937a0858fd202684fa8460ahttps://opensea.io/0xaae6e2a2d10cfe076937a0858fd202684fa8460a"
 weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
