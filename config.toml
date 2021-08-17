@@ -34,7 +34,7 @@ home = ["HTML", "RSS", "JSON"]
 author = "Themefisher"
 description = "This is meta description"
 [params.banner]
-heading = "First multi sig transaction"
+heading = "☑ First multi sig transaction"
 image = ""
 [params.blog]
 heading = ""
