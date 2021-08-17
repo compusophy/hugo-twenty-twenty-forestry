@@ -10,15 +10,9 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "collectiveDAO"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.desktop]]
-URL = "contact"
-name = "VAULT"
-url = "https://opensea.io/0xaae6e2a2d10cfe076937a0858fd202684fa8460a"
-weight = 1
-[[menu.main]]
-name = "VAULT"
-url = "https://opensea.io/0xaae6e2a2d10cfe076937a0858fd202684fa8460ahttps://opensea.io/0xaae6e2a2d10cfe076937a0858fd202684fa8460a"
-weight = 1
+[menu]
+desktop = []
+main = []
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
