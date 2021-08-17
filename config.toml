@@ -10,11 +10,9 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "collectiveDAO"
 [markup.goldmark.renderer]
 unsafe = true
+[menu]
+main = []
 [[menu.desktop]]
-URL = "https://opensea.io/0xaae6e2a2d10cfe076937a0858fd202684fa8460a"
-name = "VAULT"
-weight = ""
-[[menu.main]]
 URL = "https://opensea.io/0xaae6e2a2d10cfe076937a0858fd202684fa8460a"
 name = "VAULT"
 weight = ""
