@@ -11,12 +11,8 @@ title = "collectiveDAO"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
-name = "vote"
-url = "https://snapshot.org/#/compusophy.eth"
-weight = 2
-[[menu.desktop]]
 URL = "contact"
-name = "vault"
+name = "VAULT"
 url = "https://opensea.io/0xaae6e2a2d10cfe076937a0858fd202684fa8460a"
 weight = 1
 [[menu.main]]
